@@ -1,0 +1,2 @@
+module MapDisplayHelper
+end
